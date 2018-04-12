@@ -28,7 +28,13 @@ namespace HotsStatsApplication
         Hero Auriel = new Hero("Auriel", "Archangel of Hope", "Sacred Sweep", "Ray of Heaven", "Detainment Strike", "Crystal Aegis", "Resurrect", "N/A", "Bestow Hope", 1758, 525, 57, 0, 0, 525,
             165, 0, 270, 0, 0, 0, 0, 0, 0, 0, Properties.Resources.Auriel_Mastery_Portrait);
 
-        Hero Dehaka = new Hero("Dehaka", "Primal Pack Leader", "Drag", "Dark Swarm", "Burrow", "Isolation", "Adaptation", "N/A", "Brushtalker", 2532, 500, 160, 0, 47, 0, 0, 0, 200, 0, 0, 2532, 0, 0, 0, 0, Properties.Resources.Dehaka_Mastery_Portrait);
+        Hero Dehaka = new Hero("Dehaka", "Primal Pack Leader", "Drag", "Dark Swarm", "Burrow", "Isolation", "Adaptation", "N/A", "Brushtalker", 2532, 500, 160, 0, 47, 0, 0, 0, 200, 0, 0, 2532,
+            0, 0, 0, 29, Properties.Resources.Dehaka_Mastery_Portrait);
+
+        Hero Kaelthas = new Hero("Kael'thas", "The Sun King", "Flamestrike", "Living Bomb", "Gravity Lapse", "Pyroblast", "Phoenix", "N/A", "Verdant Spheres", 1520, 500, 320, 0, 200, 0, 0, 0, 810, 0, 78, 0,
+            0, 0, 0, 0, Properties.Resources.Kaelthas_Mastery_Portrait);
+
+
         public Form1()
         {
             InitializeComponent();
@@ -128,6 +134,11 @@ namespace HotsStatsApplication
                 case "Dehaka":
                     {
                         hero_name = Dehaka;
+                        break;
+                    }
+                case "Kael'thas":
+                    {
+                        hero_name = Kaelthas;
                         break;
                     }
                 default:
