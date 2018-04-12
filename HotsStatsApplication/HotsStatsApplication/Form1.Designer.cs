@@ -137,7 +137,8 @@
             this.HeroComboBox.FormattingEnabled = true;
             this.HeroComboBox.Items.AddRange(new object[] {
             "Auriel",
-            "Dehaka"});
+            "Dehaka",
+            "Kael\'thas"});
             this.HeroComboBox.Location = new System.Drawing.Point(84, 120);
             this.HeroComboBox.Name = "HeroComboBox";
             this.HeroComboBox.Size = new System.Drawing.Size(142, 21);

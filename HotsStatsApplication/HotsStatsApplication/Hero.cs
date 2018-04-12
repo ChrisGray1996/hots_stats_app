@@ -34,6 +34,7 @@ namespace HotsStatsApplication
             WDamage = wDamage;
             WHealing = wHealing;
             EDamage = eDamage;
+            EHealing = eHealing;
             R1Damage = r1Damage;
             R1Healing = r1Healing;
             R2Damage = r2Damage;

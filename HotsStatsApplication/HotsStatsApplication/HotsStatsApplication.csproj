@@ -78,6 +78,8 @@
   </ItemGroup>
   <ItemGroup>
     <Content Include="Images\Auriel_Mastery_Portrait.jpg" />
+    <Content Include="Resources\Kaelthas_Mastery_Portrait.jpg" />
+    <None Include="Resources\Kaelthas_Mastery_Portrait.bmp" />
     <None Include="Resources\Healing_Icon.jpg" />
     <None Include="Resources\Damage_Icon.jpg" />
     <None Include="Resources\temp_logo.jpg" />
