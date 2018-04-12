@@ -1,0 +1,9 @@
+c:\users\chris\source\repos\HotsStatsApplication\HotsStatsApplication\bin\Debug\HotsStatsApplication.exe
+c:\users\chris\source\repos\HotsStatsApplication\HotsStatsApplication\bin\Debug\HotsStatsApplication.pdb
+c:\users\chris\source\repos\HotsStatsApplication\HotsStatsApplication\obj\Debug\HotsStatsApplication.csprojResolveAssemblyReference.cache
+c:\users\chris\source\repos\HotsStatsApplication\HotsStatsApplication\obj\Debug\HotsStatsApplication.Form1.resources
+c:\users\chris\source\repos\HotsStatsApplication\HotsStatsApplication\obj\Debug\HotsStatsApplication.Properties.Resources.resources
+c:\users\chris\source\repos\HotsStatsApplication\HotsStatsApplication\obj\Debug\HotsStatsApplication.csproj.GenerateResource.Cache
+c:\users\chris\source\repos\HotsStatsApplication\HotsStatsApplication\obj\Debug\HotsStatsApplication.csproj.CoreCompileInputs.cache
+c:\users\chris\source\repos\HotsStatsApplication\HotsStatsApplication\obj\Debug\HotsStatsApplication.exe
+c:\users\chris\source\repos\HotsStatsApplication\HotsStatsApplication\obj\Debug\HotsStatsApplication.pdb
